@@ -1,10 +1,3 @@
-//__working 
-//10.5 - 10.8 
-// MOTOR VARIABLES //analogWrite(e1,90);analogWrite(e2,70);  forward();
-//for smooth left_turn e1 == e2 ==75
-             //right turn  e1 == e2 == 95
-
-             
 #define e1  5
 #define i1  6
 #define i2  7
